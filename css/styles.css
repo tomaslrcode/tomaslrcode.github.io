@@ -24,7 +24,11 @@ img {
 
 #cover-caption {
   width: 100%;
+}
 
+.navbar {
+  width: 80%;
+  margin: auto;
 }
 
 
