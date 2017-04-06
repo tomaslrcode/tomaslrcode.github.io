@@ -3,9 +3,9 @@
 html,
 body { 
   height: 100%;
-  width: 90%;
-  margin: auto;
-  background-color: #EEE5DE;
+  font-family: 'Amatic SC', cursive;
+  font-size: 20px;
+
 }
 
 img {
