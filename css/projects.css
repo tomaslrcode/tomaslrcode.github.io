@@ -34,6 +34,31 @@ img {
 }
 
 
+.lead {
+  font-size: 50px;
+}
+
+.topic {
+  font-size: 65px;
+}
+
+.pname {
+  font-size: 45px;
+  list-style-type: none;
+  text-align: center;
+}
+
+a {
+  color: white;
+}
+
+.otherr {
+  text-align: center;
+  width: 100%;
+  align-items: center;
+}
+
+
 /*
 .form-group {
   align-items: center;
