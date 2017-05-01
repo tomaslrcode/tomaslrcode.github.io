@@ -4,7 +4,7 @@ html,
 body { 
   height: 100%;
   font-family: 'Amatic SC', cursive;
-  font-size: 20px;
+  font-size: 30px;
 
 }
 
@@ -33,14 +33,6 @@ img {
   width: 100%;
   margin: auto;
 }
-
-
-/*
-.form-group {
-  align-items: center;
-}*/
-
-
 
 
 
