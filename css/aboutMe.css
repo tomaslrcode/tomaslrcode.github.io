@@ -4,7 +4,8 @@ html,
 body { 
   height: 100%;
   font-family: 'Amatic SC', cursive;
-  font-size: 20px;
+  font-size: 30px;
+
 }
 
 img {
@@ -14,13 +15,15 @@ img {
 /* Cover */
 
 #cover {
-  background: #222 url("img1/computer.jpg") center no-repeat;
+  background: #222 url("img1/stage.jpg") center no-repeat;
   background-size: cover;
   color: white;
   height: 100%;
   text-align: center;
   display: flex;
   align-items: center;
+  font-weight: bold;
+  padding-top: 130px;
 
 }
 
@@ -33,6 +36,14 @@ img {
   margin: auto;
 }
 
+h1 {
+  color: black;
+}
+
+
+p {
+  color: white;
+}
 
 
 /*
